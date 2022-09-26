@@ -1,0 +1,16 @@
+#tanzania{
+    background-color: antiquewhite;
+    padding: 25px;
+    color: #090909;
+    border: 3px dashed orange;
+    margin: 25px;
+    text-align: center;
+}
+#kenya{
+    background-color: #c6d2cc;
+    padding: 25px;
+    color: #090909;
+    border: 3px solid purple;
+    margin: 25px;
+    text-align: center;
+}

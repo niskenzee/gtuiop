@@ -1,0 +1,20 @@
+list{
+    font-family: "Courier 10 Pitch";
+    width: 75%;
+    color: coral;
+    font-size: medium;
+}
+ol,ul{
+    font-size: large;
+    font-family: "Courier 10 Pitch";
+    color: #ff2f00;
+    text-align: center;
+
+}
+h2{
+    font-family: "Abyssinica SIL";
+    font-size: x-large;
+    color: aquamarine;
+    text-align: center;
+    padding-right: initial;
+}

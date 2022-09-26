@@ -1,0 +1,11 @@
+h1{
+    font-size: xx-large;
+    font-family: "DejaVu Sans";
+    text-align: center;
+    padding: 2px;
+    margin: 40px;
+    background-color: orange;
+}
+input{
+    background-color: #f8faf9;
+}

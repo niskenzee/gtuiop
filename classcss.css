@@ -1,0 +1,16 @@
+.fruits{
+    background-color: #f8faf9;
+    padding: 20px;
+    color: #111111;
+    text-align: center;
+    border: 2px solid red;
+    margin: 20px;
+}
+.cars{
+    background-color: antiquewhite;
+    padding: 20px;
+    color: #090909;
+    text-align: center;
+    border: 2px solid maroon;
+    margin: 25px;
+}
